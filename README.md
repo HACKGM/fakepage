@@ -1,18 +1,17 @@
 # fakepage
 make fake page - ساخت صفحه فیشینگ اکانت های مختلف
-دستور اجرا در ترموکس:
-<code>
-apt update <br>
-  
-apt upgrade <br>
+دستور اجرا در ترموکس :
 
-git clone https://github.com/HACKGM/fakepage <br>
+apt update
 
-cd fakepage <br>
+apt upgrade
 
-bash fakepage.sh <br>
+git clone https://github.com/HACKGM/fakepage
 
-  <html>
+cd fakepage
+
+bash fakepage.sh
+
 بهتره برای پورت فراوردینگ گزینه 2 رو انتخاب کنید 
 موقع اتصال به 
 ngrok
