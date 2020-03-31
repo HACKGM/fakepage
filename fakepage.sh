@@ -28,7 +28,7 @@ read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m\en' op
 
 
 if [[ $option == 1 || $option == 01 ]]; then
-server="instagram"
+server="INSTA"
 start1
 
 elif [[ $option == 2 || $option == 02 ]]; then
